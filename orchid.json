@@ -1,0 +1,7 @@
+{
+  "projectType": "nextjs",
+  "importMode": "continue",
+  "version": "1.0",
+  "scanDepth": "deep",
+  "readOrchidRules": true
+}
