@@ -1,1 +1,13 @@
+{
+  "forceInclude": [
+    "src/app/issues",
+    "src/app/login",
+    "src/app/reviews",
+    "src/app/settings",
+    "src/app/submissions",
+    "src/app/users"
+  ],
+  "allowFrameworkDetection": true,
+  "mode": "continue"
+}
 
